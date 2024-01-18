@@ -1,5 +1,5 @@
 
-# ![Logo](https://www.svgrepo.com/svg/527839/password) Mass file generator
+# ![Logo](https://github.com/devcax/mass_file_generator/blob/main/assets/files-alt-svgrepo-com.png) Mass file generator
 
 A spoiler software for generate  millions of random files from a single click and spoil any kind of system.
 
